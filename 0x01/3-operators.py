@@ -11,4 +11,4 @@ print(f"multiplication {num1*num2}")
 print(f"division {num1/num2}")
 print(f"floor {num1//num2}")
 print(f"exponential {num1**num2}")
-print(f"modulus {num1%num2}")2
+print(f"modulus {num1%num2}")
