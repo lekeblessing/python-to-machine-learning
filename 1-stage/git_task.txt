@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+""" a file that contains staged task"""
+
+staged = git status 
+ptint(staged)
