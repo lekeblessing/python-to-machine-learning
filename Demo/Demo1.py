@@ -7,3 +7,5 @@ print(my_team)
 my_team.insert(1, "Aisha")
 
 print(my_team)
+
+[]
